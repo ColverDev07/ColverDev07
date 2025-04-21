@@ -11,7 +11,8 @@
 <!-- SOBRE MÍ -->
 <hr>
 <img align="right" src="https://www.kindpng.com/picc/m/274-2748314_freetoedit-menherachan-animegirl-animecute-png-kawaii-anime-girl.png" height="300" width="300">
-<h3 align="center">💻 I love to build, explore ideas and keep learning</h3>
+<h3 align="center">💻 Hi, I Am Jorman :D </h3>
+<h4 align="center">💻 I love to build, explore ideas and keep learning</h4>
 <ul>
   <li>🧩 Actualmente trabajando en proyectos personales con <strong>Python</strong> y <strong>React Native</strong></li>
   <li>🚀 Mejorando habilidades con <strong>Java</strong> y desarrollo web</li>
