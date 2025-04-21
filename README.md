@@ -1,8 +1,6 @@
 
 <!-- BANNER BIENVENIDA -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ColverDev07/ColverDev07/main/welcome.jpg" alt="Welcome Banner" />
-</p>
+![Chrome Dino](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4ff07986208593.5d9a654e92f36.gif)
 
 <hr>
 
@@ -32,7 +30,7 @@
   <a href="https://twitch.tv/Colver00" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" height="30" />
   </a>
-  <a href="https://youtube.com/@Colver live" target="_blank">
+  <a href="https://www.youtube.com/@ColverLive" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="30" />
   </a>
   <a href="mailto:jorman343xd@gmail.com" target="_blank">
