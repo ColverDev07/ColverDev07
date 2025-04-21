@@ -77,11 +77,11 @@
 <hr>
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ColverDev07&icon=4&color=1" />
+     <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="200"/>
   </a>
 </p>
 
 ---
 
-<p align="center"><i>Creado con 💻 y entusiasmo por el desarrollo.</i></p>
+<p align="center"><i>Creado con desarrollo y entusiasmo :D .</i></p>
 
