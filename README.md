@@ -25,8 +25,6 @@
 <hr>
 <h3 align="center">Conecta conmigo:</h3>
 <p align="center">
-  <a href="https://discord.gg/colve." target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" height="30" />
   </a>
   <a href="https://instagram.com/lJormanl" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" height="30" />
@@ -34,7 +32,7 @@
   <a href="https://twitch.tv/Colver00" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white" height="30" />
   </a>
-  <a href="https://youtube.com/@Colver.live" target="_blank">
+  <a href="https://youtube.com/@Colver live" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" height="30" />
   </a>
   <a href="mailto:jorman343xd@gmail.com" target="_blank">
