@@ -22,7 +22,7 @@
 
 <!-- CONTACTO -->
 <hr>
-<h3>Conecta conmigo:</h3>
+<h3 align="center">Conecta conmigo:</h3>
 <p align="center">
   </a>
   <a href="https://instagram.com/lJormanl" target="_blank">
